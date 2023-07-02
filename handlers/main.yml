@@ -1,0 +1,6 @@
+---
+# handlers file for lighthouse
+- name: Nginx reload
+  ansible.builtin.service:
+    name: nginx
+    state: restarted
