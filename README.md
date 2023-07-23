@@ -37,4 +37,4 @@ MIT
 Author Information
 ------------------
 
-Yagudin Timue
+Yagudin Timur
