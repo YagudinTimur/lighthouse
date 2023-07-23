@@ -8,7 +8,7 @@ Role Variables
 --------------
 
 |name                  | description|
-|----------------------|-----------------------------|
+|----------------------|----------------------------------------|
 |lighthouse_url        | URL for download lighthouse|
 |lighthouse_dir|       | Directory where installed lighthouse|
 |lighthouse_nginx_user | User use in nginx|
